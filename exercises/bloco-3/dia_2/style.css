@@ -1,0 +1,40 @@
+h1 {
+  width: 65px;
+  color: orange;
+  font-family: sans-serif;
+  text-align:center;
+}
+
+ul {
+  background-color: orchid;
+  font-style: italic;
+}
+
+.pul-style {
+  background-color: paleturquoise;
+}
+
+p {
+  font-weight: 600;
+  font-size: 3em;
+  line-height: 50px;
+}
+
+body {
+  font-size: 16px;
+}
+
+#li-amarelo {
+  color: yellow;
+  text-decoration: overline;
+}
+
+#li-vermelho {
+  color: red;
+  text-decoration: line-through;
+}
+
+#li-marrom {
+  color: brown;
+  text-decoration: underline;
+}
