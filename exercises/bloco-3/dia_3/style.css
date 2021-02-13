@@ -1,8 +1,14 @@
 .super-mario {
-  position: absolute;
   left: 300px;
+  position: absolute;
 }
 
 .goomba {
   float: inline-end;
+}
+
+.word {
+  margin-left: 60px;
+  margin-top: 745px;
+  position: absolute;
 }
