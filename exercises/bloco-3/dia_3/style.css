@@ -1,10 +1,12 @@
 .super-mario {
-  left: 300px;
+  left: 700px;
   position: absolute;
+  width: 50%;
 }
 
 .goomba {
   float: inline-end;
+  width: 50%;
 }
 
 .word {
@@ -16,12 +18,12 @@
 
 .baloon {
   position: absolute;
-  top: 1930px;
+  top: 1265px;
   right: 1040px;
 }
 
 .bowser {
   position: absolute;
   right: 500px;
-  top: 2150px;
+  top: 1470px;
 }
