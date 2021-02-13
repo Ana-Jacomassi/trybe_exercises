@@ -1,0 +1,8 @@
+.super-mario {
+  position: absolute;
+  left: 300px;
+}
+
+.goomba {
+  float: inline-end;
+}
