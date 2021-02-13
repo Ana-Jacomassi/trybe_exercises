@@ -9,6 +9,19 @@
 
 .word {
   margin-left: 60px;
-  margin-top: 745px;
+  margin-top: 300px;
   position: absolute;
+  z-index: 1;
+}
+
+.baloon {
+  position: absolute;
+  top: 1930px;
+  right: 1040px;
+}
+
+.bowser {
+  position: absolute;
+  right: 500px;
+  top: 2150px;
 }
