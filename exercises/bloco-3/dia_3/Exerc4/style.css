@@ -20,3 +20,12 @@ ol li.lista-ordenada-par {
 ol li.lista-ord-n-primo {
   text-transform: uppercase;
 }
+
+h1, h3 {
+  color: red;
+}
+
+h1.h1-italico {
+  font-size: 40px;
+  border: 1px solid black ;
+}
