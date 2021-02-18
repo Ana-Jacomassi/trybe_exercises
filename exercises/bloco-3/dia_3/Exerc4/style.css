@@ -48,3 +48,27 @@ ol li em {
 .word-java {
   background-color: pink;
 }
+
+a:hover {
+  font-weight: bold;
+}
+
+li.laranja:hover {
+  color: orange;
+}
+
+li.verde:hover {
+  color: green;
+}
+
+li.preto:hover {
+  color: black;
+}
+
+li.amarelo:hover {
+  color: yellow;
+}
+
+li.verde:hover {
+  color: green;
+}
