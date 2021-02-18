@@ -5,23 +5,28 @@ div:hover{
 
 div:nth-child(3){
   color: red;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 div:nth-child(4){
   color:blue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 div:nth-child(5){
   color: green;
   font-size: x-large;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 div:nth-child(6){
   color: purple;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 div:nth-child(7){
   color: pink;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 div:nth-of-type(2n+1) h3 {
