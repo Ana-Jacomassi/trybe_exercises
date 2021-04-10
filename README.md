@@ -1,2 +1,2 @@
-Aqui serão postados os Projetos desenvolvidos com o tima da Trybe! 
+Aqui serão postados os Projetos desenvolvidos com o time Trybe! 
                                                         ps: Ana J.
