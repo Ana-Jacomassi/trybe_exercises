@@ -12,3 +12,4 @@ if (imparesNumb === 0) {
 } else {
   console.log(imparesNumb);
 }
+
