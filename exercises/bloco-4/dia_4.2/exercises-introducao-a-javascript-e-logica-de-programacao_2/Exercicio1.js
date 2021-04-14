@@ -1,5 +1,6 @@
-//Arrays//Exercício 1
-let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
-let menuServices = menu.indexOf('Serviços');
+// Exercício 1
+let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 
-console.log(menuServices);
+for (let index = 0; index < numbers.length; index += 1) {
+  console.log(numbers[index]);
+}

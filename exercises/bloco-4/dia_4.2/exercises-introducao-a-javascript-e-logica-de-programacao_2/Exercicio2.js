@@ -1,5 +1,8 @@
 //Exercício 2
-let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
-let indexOfPortfolio = menu.indexOf('Portfólio');
+let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+let resultSum = 0;
+for (let index = 0; index < numbers.length; index += 1) {
+  resultSum += numbers[index];  
+}
 
-console.log(indexOfPortfolio);
+console.log(resultSum);
