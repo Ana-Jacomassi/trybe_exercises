@@ -15,4 +15,15 @@ console.log(`Os números ${oddsAndEvens} se encontram ordenados de forma crescen
 
 //Bônus
 
+const oddsAndEvens = [13, 3, 4, 10, 7, 2];
+
+oddsAndEvens.sort((a, b) => {
+  if (a < b) return -1;
+})
+
+console.log(oddsAndEvens);
+
+// refatoração
+const oddsAndEvens = [13, 3, 4, 10, 7, 2];
+
 console.log(`Os números ${oddsAndEvens.sort((a, b) => a-b)} se encontram ordenados de forma crescente!`);
